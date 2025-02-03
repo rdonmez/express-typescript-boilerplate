@@ -1,5 +1,6 @@
 
 # Example of ExpressJS Typescript Boilerplate
+This project demonstrates ExpressJS implementation with Typescript. 
 
 ## Install and Run (NPM)
 

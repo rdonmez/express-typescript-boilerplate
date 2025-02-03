@@ -1,5 +1,4 @@
 import Express from "express";
-import { HttpCode } from './httpcodes';
 import { router } from "../routers";
 
 interface ServerOptions {
